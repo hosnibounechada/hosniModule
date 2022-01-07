@@ -1,0 +1,19 @@
+{
+  "name": "hosnimodule",
+  "version": "1.0.0",
+  "description": "test to create node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosnibounechada/hosniModule.git"
+  },
+  "author": "hosni bounechada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosnibounechada/hosniModule/issues"
+  },
+  "homepage": "https://github.com/hosnibounechada/hosniModule#readme"
+}
